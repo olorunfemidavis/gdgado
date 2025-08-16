@@ -50,7 +50,7 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 - Include relevant test updates/additions
 
 ## Contributors
-<b>Maintainer:</b> [Olorunfemi Ajibulu](https://github.com/fzany)
+<b>Maintainer:</b> [Olorunfemi Davis](https://github.com/olorunfemidavis)
 
 
 Project is published under the [MIT license](/LICENSE.md).  
